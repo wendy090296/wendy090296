@@ -2,6 +2,9 @@
 
 # Hi there! 👋🏻 I'm Wendy 👩🏻‍💻, welcome to my GitHub!
 
+<img width="100%" heigth="20%" alt="coding bunner" src="![image](https://github.com/wendy090296/wendy090296/assets/151148693/5ce77b21-2fc5-41cc-a7a4-de6ae2be1553)
+"/>
+
 
 I am a passionate Full Stack Developer driven by a high curiosity for the huge world of technology, including  AI and cybersecurity. I use my knowledge, logical skills and creativity to build fully functional web applicatons paying attention to details and UX.
 
