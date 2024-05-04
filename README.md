@@ -2,6 +2,9 @@
 
 # Hi there! 👋🏻 I'm Wendy 👩🏻‍💻, welcome to my GitHub!
 
+
+<img width="100%" heigth="20%" alt="coding bunner" src="http://res.cloudinary.com/dakmluxbm/image/upload/v1710160435/gzk8kjhmccgi5haputiu.png"/>
+
 I am a passionate Full Stack Developer driven by a high curiosity for the huge world of technology, including  AI and cybersecurity. I use my knowledge, logical skills and creativity to build fully functional web applicatons paying attention to details and UX.
 
 
@@ -14,7 +17,7 @@ I am a passionate Full Stack Developer driven by a high curiosity for the huge w
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,typescript,bootstrap,vscode,git,github,intellij,java,spring,postgresql,pgadmin,npm,postman,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,typescript,bootstrap,vscode,git,github,intelliJ,java,spring,postgresql,pgadmin,npm,postman,)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
