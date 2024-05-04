@@ -64,12 +64,13 @@ I am a passionate Full Stack Developer driven by a high curiosity for the huge w
 ## Contacts
 
 <div align="left">
-  <a href="[https://www.linkedin.com/in/cristina-palmisani-fullstack-developer/]"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="[https://www.linkedin.com/in/wendy-de-luca-03500b171/]"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 
 </div>
 
-Thanks for stopping by! Let's connect 🚀
+
+<div>Thanks for stopping by! Let's connect 🚀</div>div>
 
 
 
