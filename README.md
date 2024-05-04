@@ -16,7 +16,7 @@ I am a passionate Full Stack Developer driven by a high curiosity for the huge w
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,typescript,bootstrap,vscode,git,github,intelliJ,java,spring,postgresql,pgadmin,npm,postman,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,typescript,bootstrap,vscode,git,github,java,spring,postgresql,pgadmin,npm,postman,)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
