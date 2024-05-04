@@ -2,7 +2,7 @@
 
 # Hi there! 👋🏻 I'm Wendy 👩🏻‍💻, welcome to my GitHub!
 
-
+<img width="100%" heigth="20%" alt="coding bunner" src="http://res.cloudinary.com/dakmluxbm/image/upload/v1710160435/gzk8kjhmccgi5haputiu.png"/>
 
 I am a passionate Full Stack Developer driven by a high curiosity for the huge world of technology, including  AI and cybersecurity. I use my knowledge, logical skills and creativity to build fully functional web applicatons paying attention to details and UX.
 
@@ -16,40 +16,7 @@ I am a passionate Full Stack Developer driven by a high curiosity for the huge w
 
 
 ## Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,redux,java,spring,vscode,postman,pgadmin,typescript,postgresql,git,github,npm)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
@@ -63,14 +30,10 @@ I am a passionate Full Stack Developer driven by a high curiosity for the huge w
 
 ## Contacts
 
-<div align="left">
-  <a href="[https://www.linkedin.com/in/wendy-de-luca-03500b171/]"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-
-</div>
+- Connect with me on [Linkedin](https://www.linkedin.com/in/wendy-de-luca-03500b171/)
 
 
-<div>Thanks for stopping by! Let's connect 🚀</div>div>
+<div>Thanks for stopping by! Let's connect 🚀</div>
 
 
 
