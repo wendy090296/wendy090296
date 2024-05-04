@@ -10,13 +10,13 @@ I am a passionate Full Stack Developer driven by a high curiosity for the huge w
 
 ## 🚀 About Me
 
-- 👨‍💻 🍀 I'm currently learning both Front-End and BACK-END programming languages.
+- 👨‍💻 🍀 I'm currently learning both FRONT-END and BACK-END programming languages.
 - 📫 You can reach me at wendydeluca96@hotmail.com
 - ⚡ I love:  nature 🌳 , travelling 🌏 , yoga 🧘🏼‍♀️ and books 📚
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,redux,java,spring,vscode,postman,pgadmin,typescript,postgresql,git,github,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,java,spring,vscode,postman,pgadmin,typescript,postgresql,git,github,npm)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
