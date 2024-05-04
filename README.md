@@ -3,7 +3,6 @@
 # Hi there! 👋🏻 I'm Wendy 👩🏻‍💻, welcome to my GitHub!
 
 
-<img width="100%" heigth="20%" alt="coding bunner" src="http://res.cloudinary.com/dakmluxbm/image/upload/v1710160435/gzk8kjhmccgi5haputiu.png"/>
 
 I am a passionate Full Stack Developer driven by a high curiosity for the huge world of technology, including  AI and cybersecurity. I use my knowledge, logical skills and creativity to build fully functional web applicatons paying attention to details and UX.
 
