@@ -4,7 +4,7 @@
 
 I am a passionate Full Stack Developer driven by a high curiosity for the huge world of technology, including  AI and cybersecurity. I use my knowledge, logical skills and creativity to build fully functional web applicatons paying attention to details and UX.
 
-![wendy090296's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 ## 🚀 About Me
 
@@ -27,7 +27,7 @@ I am a passionate Full Stack Developer driven by a high curiosity for the huge w
 
 ## Contacts
 
-- Connect with me on [Linkedin](https://www.linkedin.com/in/wendy-de-luca-03500b171/))
+- Connect with me on [Linkedin](https://www.linkedin.com/in/wendy-de-luca-03500b171/)
 
 
 Thanks for stopping by! Let's connect 🚀
