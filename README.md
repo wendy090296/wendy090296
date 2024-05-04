@@ -2,7 +2,7 @@
 
 # Hi there! 👋🏻 I'm Wendy 👩🏻‍💻, welcome to my GitHub!
 
-![Coding banner]("https://github.com/wendy090296/wendy090296/blob/main/cover%20github.png")
+![Coding banner]("https://github.com/wendy090296/wendy090296/blob/main/cover%20github.png?raw=true")
 
 I am a passionate Full Stack Developer driven by a high curiosity for the huge world of technology, including  AI and cybersecurity. I use my knowledge, logical skills and creativity to build fully functional web applicatons paying attention to details and UX.
 
