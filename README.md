@@ -21,7 +21,7 @@ I am a passionate <strong>Full Stack Developer</strong> driven by a high curiosi
 
 ## 🌱 Currently Exploring
 
-- 🚀 <strongFull Stack Web Development/strong>
+- 🚀 <strong>Full Stack Web Development</strong>
   - Exploring the ins and outs of <strong>React</strong> and <strong>Redux</strong> for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Building server-side applications with <strong>Java</strong>, <strong>Springboot</strong>.
