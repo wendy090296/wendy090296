@@ -4,7 +4,7 @@
 
 ![Coding banner](https://raw.githubusercontent.com/wendy090296/wendy090296/main/cover%20github.png)
 
-I am a passionate Full Stack Developer driven by a high curiosity for the huge world of technology, including  AI and cybersecurity. I use my knowledge, logical skills and creativity to build fully functional web applicatons paying attention to details and UX.
+I am a passionate <strong>Full Stack Developer</strong> driven by a high curiosity for the huge world of technology, including  AI and cybersecurity. I use my knowledge, logical skills and creativity to build fully functional web applicatons paying attention to details and UX.
 
 
 
