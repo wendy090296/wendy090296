@@ -10,7 +10,7 @@ I am a passionate <strong>Full Stack Developer</strong> driven by a high curiosi
 
 ## 🚀 About Me
 
-- 👨‍💻 🍀 I'm currently learning both FRONT-END and BACK-END programming languages.
+- 👨‍💻 🍀 I'm currently learning both <strong>FRONT-END</strong> and <strong>BACK-END</strong> programming languages.
 - 📫 You can reach me at wendydeluca96@hotmail.com
 - ⚡ I love:  nature 🌳 , travelling 🌏 , yoga 🧘🏼‍♀️ and books 📚
 
